@@ -7,4 +7,4 @@ You can see, after running "`shutdown -h now`", the system is just halted, and p
 If you want to halt and power off the system, you should execute "`shutdown -p now`".
 
 Reference:  
-[SHUTDOWN](https://www.freebsd.org/cgi/man.cgi?shutdown(8).
+[SHUTDOWN](https://www.freebsd.org/cgi/man.cgi?shutdown(8)).
