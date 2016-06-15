@@ -4,4 +4,5 @@
 * [Configure proxy](posts/configure-proxy.md)
 * [Shutdown](posts/shutdown.md)
 * [Reboot](posts/reboot.md)
+* [Upgrade system](posts/upgrade-system.md)
 * [Upgrade to new release](posts/upgrade-to-new-release.md)
