@@ -8,5 +8,5 @@
 Because the capacity of system message buffer is limited, `FreeBSD` employs `/var/run/dmesg.boot` in case the content of buffer is flushed.  
 
 References:  
-[Devices and Device Nodes](https://www.freebsd.org/doc/handbook/basics-devices.html); 
+[Devices and Device Nodes](https://www.freebsd.org/doc/handbook/basics-devices.html);  
 [Back To Basics: Unix Differences in Performing Tasks](http://www.longitudetech.com/linux-unix/back-to-basics-unix-differences-in-performing-tasks/). 
