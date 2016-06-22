@@ -8,4 +8,5 @@
 * [Upgrade to new release](posts/upgrade-to-new-release.md)
 * [Install software](posts/install-software.md)
 * [Update Ports Collection](posts/update-ports-collection.md)
+* [Change the shell](posts/change-the-shell.md)
 * [Use "ps" to display process status](posts/use-ps-to-display-process-status.md)
