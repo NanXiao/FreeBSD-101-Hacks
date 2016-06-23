@@ -11,3 +11,4 @@
 * [Change the shell](posts/change-the-shell.md)
 * [/var/run/dmesg.boot](posts/dmesg-boot.md)
 * [Use "ps" to display process status](posts/use-ps-to-display-process-status.md)
+* [Notices of using Subversion](posts/notice-of-using-subversion.md)
