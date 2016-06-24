@@ -12,3 +12,4 @@
 * [/var/run/dmesg.boot](posts/dmesg-boot.md)
 * [Use "ps" to display process status](posts/use-ps-to-display-process-status.md)
 * [Notices of using Subversion](posts/notice-of-using-subversion.md)
+* [Search backwards in csh](posts/search-backwards-in-csh.md)
