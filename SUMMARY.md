@@ -10,6 +10,7 @@
 * [Update Ports Collection](posts/update-ports-collection.md)
 * [Change the shell](posts/change-the-shell.md)
 * [/var/run/dmesg.boot](posts/dmesg-boot.md)
+* [Display swap space utilization](posts/display-swap-space-utilization.md)
 * [Use "ps" to display process status](posts/use-ps-to-display-process-status.md)
 * [Notices of using Subversion](posts/notice-of-using-subversion.md)
 * [Search backwards in csh](posts/search-backwards-in-csh.md)
