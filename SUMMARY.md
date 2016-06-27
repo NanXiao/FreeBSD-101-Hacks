@@ -15,3 +15,4 @@
 * [Notices of using Subversion](posts/notice-of-using-subversion.md)
 * [Search backwards in csh](posts/search-backwards-in-csh.md)
 * [Print PCI devices info](posts/print-pci-devices-info.md)
+* [Mount procfs file system](posts/mount-procfs-file-system.md)
