@@ -1,4 +1,4 @@
-Clear separation between base operating system and user-added applications
+Clear directory structure
 ----
 `FreeBSD` has a clear separation between base operating system and user-added applications, that means everything which does not belong to the base operating system is under `/usr/local` directory, and the `/usr/local` directory contains a directory structure that mostly mirrors the structure found in the `/` or `/usr` directory.  
 
