@@ -8,6 +8,7 @@
 * [Upgrade to new release](posts/upgrade-to-new-release.md)
 * [Install software](posts/install-software.md)
 * [Update Ports Collection](posts/update-ports-collection.md)
+* [Clear separation between base operating system and user-added applications](posts/clear-separation-between-base-operating-system-and-user-added-applications.md)
 * [Change the shell](posts/change-the-shell.md)
 * [/var/run/dmesg.boot](posts/dmesg-boot.md)
 * [Display swap space utilization](posts/display-swap-space-utilization.md)
