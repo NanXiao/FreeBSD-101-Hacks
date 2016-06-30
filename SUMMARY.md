@@ -14,6 +14,7 @@
 * [Display swap space utilization](posts/display-swap-space-utilization.md)
 * [Use "ps" to display process status](posts/use-ps-to-display-process-status.md)
 * [Notices of using Subversion](posts/notice-of-using-subversion.md)
-* [Search backwards in csh](posts/search-backwards-in-csh.md)
+* [Search backwards in csh](posts/search-backwards-in-csh.md)  
+* [Trim a file in csh](posts/trim-a-file-in-csh.md)
 * [Print PCI devices info](posts/print-pci-devices-info.md)
 * [Mount procfs file system](posts/mount-procfs-file-system.md)
