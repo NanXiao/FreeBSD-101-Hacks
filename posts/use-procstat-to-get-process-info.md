@@ -1,3 +1,4 @@
+Use "procstat" to get process info
 ----
 On `FreeBSD`, you can use `procstat` command to get detailed info of process. E.g.:  
 
