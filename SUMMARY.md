@@ -13,6 +13,7 @@
 * [/var/run/dmesg.boot](posts/dmesg-boot.md)
 * [Display swap space utilization](posts/display-swap-space-utilization.md)
 * [Use "ps" to display process status](posts/use-ps-to-display-process-status.md)
+* [Use "procstat" to get process info](posts/use-procstat-to-get-process-info.md)
 * [Notices of using Subversion](posts/notice-of-using-subversion.md)
 * [Search backwards in csh](posts/search-backwards-in-csh.md)  
 * [Trim a file in csh](posts/trim-a-file-in-csh.md)
