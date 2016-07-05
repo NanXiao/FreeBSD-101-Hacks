@@ -7,6 +7,7 @@
 * [Upgrade system](posts/upgrade-system.md)
 * [Upgrade to new release](posts/upgrade-to-new-release.md)
 * [Install software](posts/install-software.md)
+* [Install source code](posts/install-source-code.md)
 * [Update Ports Collection](posts/update-ports-collection.md)
 * [Clear Directory Structure](posts/clear-directory-structure.md)
 * [Change the shell](posts/change-the-shell.md)
