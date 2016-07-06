@@ -13,6 +13,7 @@
 * [Update Ports Collection](posts/update-ports-collection.md)
 * [Clear Directory Structure](posts/clear-directory-structure.md)
 * [Change the shell](posts/change-the-shell.md)
+* [Change PATH environment variable](posts/change-path-environment-variable.md)
 * [Rehash command](posts/rehash-command.md)
 * [/var/run/dmesg.boot](posts/dmesg-boot.md)
 * [Display swap space utilization](posts/display-swap-space-utilization.md)
