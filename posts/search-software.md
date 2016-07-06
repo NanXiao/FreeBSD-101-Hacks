@@ -7,7 +7,7 @@ If you want to search a specified application, you can use "`pkg search`" comman
 	p5-Unix-Lsof-0.0.5_2           Unix::Lsof -- a wrapper to the Unix lsof utility
 If you want to know the software's path in the ports tree, you can use `-o` option:  
 
-	 # pkg search -o lsof
+	# pkg search -o lsof
 	sysutils/lsof                  Lists information about open files (similar to fstat(1))
 	sysutils/p5-Unix-Lsof          Unix::Lsof -- a wrapper to the Unix lsof utility
 In case the Ports Collection is already installed, you can employ `whereis` command:  
