@@ -16,4 +16,7 @@ On `FreeBSD`, we can employ `sockstat` command to list both open Internet and `U
 
 We can see the output of `sockstat` lists which process owns the socket, the file descriptor number of the socket, etc. So it is a really awesome tool to diagnose network related issues.  
 
+Reference:  
+[SOCKSTAT(1)](https://www.freebsd.org/cgi/man.cgi?query=sockstat&sektion=1).
+
 
