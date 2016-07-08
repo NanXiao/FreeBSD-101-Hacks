@@ -11,6 +11,7 @@
 * [Remove software](posts/remove-software.md)
 * [Install source code](posts/install-source-code.md)
 * [Update Ports Collection](posts/update-ports-collection.md)
+* [Accept default options during installing port](posts/accept-default-options-during-installing-port.md)
 * [Clear Directory Structure](posts/clear-directory-structure.md)
 * [Change the shell](posts/change-the-shell.md)
 * [Change PATH environment variable](posts/change-path-environment-variable.md)
