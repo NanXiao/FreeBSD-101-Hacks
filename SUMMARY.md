@@ -10,6 +10,7 @@
 * [Search software](posts/search-software.md)
 * [Remove software](posts/remove-software.md)
 * [Install source code](posts/install-source-code.md)
+* [CURRENT VS STABLE](posts/current-vs-stable.md)
 * [Update Ports Collection](posts/update-ports-collection.md)
 * [Accept default options during installing port](posts/accept-default-options-during-installing-port.md)
 * [Clear Directory Structure](posts/clear-directory-structure.md)
