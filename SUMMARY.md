@@ -30,3 +30,4 @@
 * [Print PCI devices info](posts/print-pci-devices-info.md)
 * [Mount procfs file system](posts/mount-procfs-file-system.md)
 * [Kldstat command](posts/kldstat-command.md)
+* [Load and unload files into kernel](posts/load-and-unload-files-into-kernel.md)
