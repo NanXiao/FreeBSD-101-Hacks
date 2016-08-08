@@ -26,6 +26,7 @@
 * [Use "ps" to display process status](posts/use-ps-to-display-process-status.md)
 * [Use "procstat" to get process info](posts/use-procstat-to-get-process-info.md)
 * [Sockstat command](posts/sockstat-command.md)
+* [Use "freecolor" to display memory and swap usage](posts/Use-freecolor-to-display-memory-and-swap-usage.md)
 * [Notices of using Subversion](posts/notice-of-using-subversion.md)
 * [Print PCI devices info](posts/print-pci-devices-info.md)
 * [Mount procfs file system](posts/mount-procfs-file-system.md)
