@@ -15,7 +15,7 @@ For example, you add "`/usr/local/go/bin`" into `$PATH`:
 
 Then executing "`source .cshrc`" command, you will find the new `$PATH` takes effect:  
 
-	 # source .cshrc
+	# source .cshrc
 	# echo $PATH
 	/sbin:/bin:/usr/sbin:/usr/bin:/usr/games:/usr/local/sbin:/usr/local/bin:/root/bin:/root/gocode/bin:/usr/local/go/bin
 
