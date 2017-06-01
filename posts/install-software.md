@@ -45,6 +45,16 @@ After all are installed, we can use `sqlite` in `python` now:
 	Type "help", "copyright", "credits" or "license" for more information.
 	>>> import sqlite3
 
+The other method is installing from `DVD`:  
+(1) Put `DVD` in the drive;  
+(2) Mount `DVD`:  
+
+	mkdir -p /dist
+	mount -t cd9660 /dev/cd0 /dist
+(3) Install the package (E.g., `xorg`):  
+
+	env REPOS_DIR=/dist/packages/repos pkg install xorg
 References:  
 [Packages and Ports: Adding Software in FreeBSD](https://www.freebsd.org/doc/en_US.ISO8859-1/articles/linux-users/software.html);  
-[Get started with FreeBSD: A brief intro for Linux users](http://www.infoworld.com/article/2858288/unix/intro-to-freebsd-for-linux-users.html).
+[Get started with FreeBSD: A brief intro for Linux users](http://www.infoworld.com/article/2858288/unix/intro-to-freebsd-for-linux-users.html);  
+[FreeBSD 10 install packages from DVD](https://forums.freebsd.org/threads/44430/#post-300633).
