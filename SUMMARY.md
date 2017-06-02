@@ -15,6 +15,7 @@
 * [CURRENT VS STABLE](posts/current-vs-stable.md)
 * [Update Ports Collection](posts/update-ports-collection.md)
 * [Accept default options during installing port](posts/accept-default-options-during-installing-port.md)
+* [Enable ls colour output](posts/enable-ls-colour-output.md)
 * [Clear Directory Structure](posts/clear-directory-structure.md)
 * [Change the shell](posts/change-the-shell.md)
 * [Change PATH environment variable](posts/change-path-environment-variable.md)
