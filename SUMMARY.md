@@ -20,6 +20,7 @@
 * [Change the shell](posts/change-the-shell.md)
 * [Change PATH environment variable](posts/change-path-environment-variable.md)
 * [Colorize bash](posts/colorize-bash.md)
+* [Install bash-completion](posts/install-bash-completion.md)
 * [Rehash command](posts/rehash-command.md)
 * [Search backwards in csh](posts/search-backwards-in-csh.md)  
 * [Trim a file in csh](posts/trim-a-file-in-csh.md)
