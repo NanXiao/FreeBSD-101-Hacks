@@ -21,6 +21,7 @@
 * [Change PATH environment variable](posts/change-path-environment-variable.md)
 * [Colorize bash](posts/colorize-bash.md)
 * [Install bash-completion](posts/install-bash-completion.md)
+* [Fix git issue: "SSL certificate problem: certificate is not yet valid"](posts/fix-git-issue-ssl-certificate-problem-certificate-is-not-yet-valid.md)
 * [Rehash command](posts/rehash-command.md)
 * [Search backwards in csh](posts/search-backwards-in-csh.md)  
 * [Trim a file in csh](posts/trim-a-file-in-csh.md)
