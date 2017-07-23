@@ -1,4 +1,4 @@
-Fix git issue: "SSL certificate problem: certificate is not yet valid"
+Fix git SSL certificate problem
 ----
 When you face "`git clone`" error like this:  
 
